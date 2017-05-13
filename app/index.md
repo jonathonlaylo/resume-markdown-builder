@@ -1,48 +1,83 @@
-# Andrea Takamiya
+<!-- # Jonathon Laylo
 
-1. 123 Manoa Drive Honolulu, HI 96822
-1. (808) 555-5555
-1. [https://github.com/andimiya](https://github.com/andimiya)
-1. [linkedin-url](linkedin-url)
+1. 2706 Peter St. Honolulu, HI 96816
+1. (253) 459-3507
+1. [https://github.com/jonathonlaylo](https://github.com/jonathonlaylo)
+1. [https://www.linkedin.com/in/jonathon-laylo-7104a9a5/](https://www.linkedin.com/in/jonathon-laylo-7104a9a5/)
 
 ## Objective
-I am a web developer...(what profession are you seeking?)
+I am a web developer
 
 ## Development Experience
 
-### Final Project Name 1
-#### [https://github.com/username/project](https://github.com/username/project)
-##### March 2017
-- Describe the project.
-- What did you contribute?
-- What were the outcomes (if any) of this project?
+### Buoy Call
+#### [https://buoycall.org/](https://buoycall.org/)
+##### May 2017
+View historical data over time for buoys placed all over the world. Select a shark to adopt and give it a name with a $5 donation, and come back often to view where the shark is swimming.
 
-### Hackathon Project Name 2
-#### [http://url.com](http://url.com)
+### AT&T Hackathon
+#### [https://github.com/danimi65/ATTHackathon-luggage](https://github.com/danimi65/ATTHackathon-luggage)
 ##### March 2017
-- Describe the project.
-- What did you contribute?
-- What were the outcomes (if any) of this project?
+
+
+### SSH Hackathon
+#### [https://github.com/STUPIDSHITNOONEINHAWAIINEEDSHACKATHON/NSFWSFW](NSFWSFW)
+##### January 2017
+
+### GlobalGameJam
+#### [https://github.com/danimi65/GlobalGameJam](GlobalGameJam)
+##### January 2017
 
 ## Professional Experience
 
-### Online Experience Manager
-#### Hawaiian Airlines Honolulu
-##### HI 2014 – Present  
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus feugiat metus orci, vitae egestas sapien tincidunt ac.
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus feugiat metus orci, vitae egestas sapien tincidunt ac.
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus feugiat metus orci, vitae egestas sapien tincidunt ac.
+### AT&T
+#### Retail Sales Consultant
+##### HI 2014 – Present
+- Develop and attain customer experience and sales objective for store
+- Sell all products and services offered by the company
+- Maintain strong knowledge of all products, accessories, pricing plans, and service features
+- Ensure an extraordinary customer experience
+
+### CCS
+#### Store Manager
+##### WA 2012 - 2013
+- Hired, trained and supervised employees
+- Responsible for staff work schedule 
+- Tracked productivity and sales goals 
+- Opening and closing procedures
+- Customer service 
+- Store to store transfer 
+- Merchandising 
+- Loss prevention 
+- Processed shipment 
+
+### Industrial RideShop
+#### Store Manager
+##### WA 2009 - 2012
+- Youngest promoted to Store Manager 
+- Hired, trained and supervised employees
+- Responsible for staff work schedule 
+- Tracked productivity/sales goals 
+- Opening/closing procedures • Customer service 
+- Store to store transfer 
+- Merchandising 
+- Floor control 
+- Loss prevention 
+- Processed shipment 
+- Buyer relations
 
 ## Education
 ### DevLeague
-#### Explanation of what this is
-##### Jan - June 2017
+#### Web Development Full-Stack Bootcamp
+##### Nov 2016 - May 2017
 
-### Bachelor of Arts in Business Administration 
-#### Concentration in Marketing and International Business 
-#### Cumulative GPA: 3.74
-##### University of Oregon, 2005 – 2007
-##### University of Hawaii at Manoa , 2008 – 2009 
+### University of Washington 
+#### Institute of Technology Computing & Software System and Business Minor
+##### 2007 – 2009
+
+### Pierce College
+#### Associates of Business
+##### 2005 - 2007
 
 ## Technical Skills
 
@@ -55,7 +90,7 @@ I am a web developer...(what profession are you seeking?)
 ### Web Skills
 - Responsive/Mobile First Web Development
 - Test/Behavior Driven Development
-- Relational - and Non-Relational Database Modeling 
+- Relational - and Non-Relational Database Modeling
 - User Authentication
 - API Integration
 
@@ -73,13 +108,9 @@ I am a web developer...(what profession are you seeking?)
 ### Server-Side Proficiencies
 - NodeJS
 - Express
-- Jade
-- Sequelize/Mongoose ORM
-- GraphQl
 
 ### Database Proficiencies
-- PostgreSQL 
-- MongoDB
+- PostgreSQL
 
 ### Workflow/Testing Utilities
 - Git
@@ -87,15 +118,4 @@ I am a web developer...(what profession are you seeking?)
 - Mocha
 - Chai
 - SuperTest
-
-### Business Development
-- Sitecore CMS ( Sitecore Certified)
-- Sitecore OMS (Sitecore Certified)
-- Sitecore DMS (Sitecore Certified)
-- Adobe Sitecatalyst (Omniture)
-- Adobe Test & Target
-- Farelogix Merchandising System Microsoft Sharepoint CMS
-- Web layouts and wire-framing
-- Adobe Photoshop CS6
-- Adobe Illustrator CS6
-- Google AdWords
+ -->
