@@ -1,21 +1,24 @@
-# Andrea Takamiya
+# Jonathon Laylo
 
-1. 123 Manoa Drive Honolulu, HI 96822
-1. (808) 555-5555
-1. [https://github.com/andimiya](https://github.com/andimiya)
-1. [linkedin-url](linkedin-url)
+1. 2706 Peter Street Honolulu, HI 96816
+1. (253) 459-3507
+1. [https://github.com/jonathonlaylo](https://github.com/jonathonlaylo)
+1. [https://www.linkedin.com/in/jonathon-laylo-7104a9a5/](https://www.linkedin.com/in/jonathon-laylo-7104a9a5/)
+1. jonathon.laylo@gmail.com
 
 ## Objective
-I am a web developer...(what profession are you seeking?)
+I am a recent graduate in Web Developing with experience in front-end design, back-end design, and application development. A quick learner with strong skills in customer service, time management, and multi-tasking. Strong analytical mindset and quick to problem solve. Proficient work ethic in both team and individual settings.
+
 
 ## Development Experience
 
-### Final Project Name 1
-#### [https://github.com/username/project](https://github.com/username/project)
+### Buoy Call
+#### [https://buoycall.org/](https://buoycall.org/)
 ##### March 2017
-- Describe the project.
-- What did you contribute?
-- What were the outcomes (if any) of this project?
+- View historical data over time for buoys placed all over the world. Select a shark to adopt and give it a name with a $5 donation, and come back often to view where the shark is swimming.
+- Visualized and created cluster markers for the buoy and shark data on to Mapbox. Implemented components with React for user information.
+- Major outcome from this was project management, team based programming, and self teaching through docs.
+
 
 ### Hackathon Project Name 2
 #### [http://url.com](http://url.com)
@@ -28,7 +31,7 @@ I am a web developer...(what profession are you seeking?)
 
 ### Online Experience Manager
 #### Hawaiian Airlines Honolulu
-##### HI 2014 – Present  
+##### HI 2014 – Present
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus feugiat metus orci, vitae egestas sapien tincidunt ac.
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus feugiat metus orci, vitae egestas sapien tincidunt ac.
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus feugiat metus orci, vitae egestas sapien tincidunt ac.
@@ -55,7 +58,7 @@ I am a web developer...(what profession are you seeking?)
 ### Web Skills
 - Responsive/Mobile First Web Development
 - Test/Behavior Driven Development
-- Relational - and Non-Relational Database Modeling 
+- Relational - and Non-Relational Database Modeling
 - User Authentication
 - API Integration
 
@@ -78,7 +81,7 @@ I am a web developer...(what profession are you seeking?)
 - GraphQl
 
 ### Database Proficiencies
-- PostgreSQL 
+- PostgreSQL
 - MongoDB
 
 ### Workflow/Testing Utilities
