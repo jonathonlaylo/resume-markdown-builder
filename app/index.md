@@ -3,7 +3,7 @@
 1. 2706 Peter Street Honolulu, HI 96816
 1. (253) 459-3507
 1. [https://github.com/jonathonlaylo](https://github.com/jonathonlaylo)
-1. [https://www.linkedin.com/in/jonathon-laylo-7104a9a5/](https://www.linkedin.com/in/jonathon-laylo-7104a9a5/)
+1. [https://www.linkedin.com/in/jonathonlaylo](https://www.linkedin.com/in/jonathonlaylo)
 1. [jonathon.laylo@gmail.com](jonathon.laylo@gmail.com)
 
 ## Objective
@@ -25,7 +25,7 @@ I am a recent graduate in Web Developing with experience in front-end design, ba
 ##### March 2017
 - GlobalGameJam is a 24 hour hackathon to create a fun and interactive game for users. Built with jQuery and JavaScript, our team of three created a Pokemon game with a surfing Pikachu avoiding Gyarados baddies.
 - Enabled sprites to move with game mechanics and to interact with enemy baddies.
-- Quickly understood team based projects under time contraints
+- Quickly understood team based projects under time contraints.
 
 ## Professional Experience
 
@@ -47,14 +47,20 @@ I am a recent graduate in Web Developing with experience in front-end design, ba
 
 ## Education
 ### DevLeague
-#### Explanation of what this is
-##### Jan - June 2017
+#### An 800+ hour JavaScript Web Engineering bootcamp. This course teaches students with or without a programming background to become a full-stack web developer. Here I learned object-oriented programming, PostgresSQL databases, test-driven developments, React, Redux, and how to deploy web based apps.
+##### Nov 2016 - May 2017
 
-### Bachelor of Arts in Business Administration 
-#### Concentration in Marketing and International Business 
-#### Cumulative GPA: 3.74
-##### University of Oregon, 2005 – 2007
-##### University of Hawaii at Manoa , 2008 – 2009 
+### Institute of Technology Computing & Software System and Business Minor
+#### University of Washignton
+##### 2008 – 2010
+
+### Associates of Business
+#### Pierce College
+##### 2006 - 2008
+
+## Languages
+- English
+- Tagalog (Fluent)
 
 ## Technical Skills
 
@@ -99,15 +105,3 @@ I am a recent graduate in Web Developing with experience in front-end design, ba
 - Mocha
 - Chai
 - SuperTest
-
-### Business Development
-- Sitecore CMS ( Sitecore Certified)
-- Sitecore OMS (Sitecore Certified)
-- Sitecore DMS (Sitecore Certified)
-- Adobe Sitecatalyst (Omniture)
-- Adobe Test & Target
-- Farelogix Merchandising System Microsoft Sharepoint CMS
-- Web layouts and wire-framing
-- Adobe Photoshop CS6
-- Adobe Illustrator CS6
-- Google AdWords
