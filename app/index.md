@@ -3,8 +3,8 @@
 1. 1482 12th St Oakland, CA 94607
 1. (253) 459-3507
 1. [jonathon.laylo@gmail.com](jonathon.laylo@gmail.com)
-1. [https://github.com/jonathonlaylo](https://github.com/jonathonlaylo)
-1. [https://www.linkedin.com/in/jonathonlaylo](https://www.linkedin.com/in/jonathonlaylo)
+1. [Github.com/jonathonlaylo](https://github.com/jonathonlaylo)
+1. [LinkedIn.com/jonathonlaylo](https://www.linkedin.com/in/jonathonlaylo)
 
 
 ## Objective
@@ -14,34 +14,30 @@ I am a recent graduate in Web Developing bootcamp with experience in front-end d
 
 ## Professional Experience
 
-### Brand Ambassador
-#### AT&T
+### AT&T
+#### Brand Ambassador
 ##### San Francisco, CA August 2014 – Present
 - Develop and attain customer experience and sales objectives for AT&T. Sell products and services offered by AT&T. While receiving a 85% customer satisfaction average, I consistently resolve questions through email, phone calls, and text messages. Educated customers with up-to-date knowledge of latest products and trends. Consult with customers to understand their needs and offer optimal options to choose from.
 
-### Store Manager
-#### CCS
+### CCS
+#### Store Manager
 ##### Tukwila, WA 2012 - 2013
 - Hired and trained 15+ new employees. Directly supervised up to 10 employees at a time and provided individualized coaching and mentorship. Created weekly staff schedules for up to 10 employees and utilized sharp reactive skills to manage changes and unforeseen disruptions efficiently. Measured productivity by tracking daily growth of employee sales. Monitored monthly sales goals at both the store level and individual level for every employee. Fostered a positive work atmosphere by setting competitive goals which increased sales by 15%.
 
-### Store Manager
-#### Industrial Rideshop
+### Industrial Rideshop
+#### Store Manager
 ##### Olympia, WA 2008 - 2011
-
 - Youngest employee promoted to store manager. Climbed the ranks of sales associate, supervisor, assistant manager, and then to store manager. Analyzed existing opening and closing procedures to develop new strategies that were implemented storewide. Reduced time spent on prolonged tasks by 30% for all staff.
 
 ## Education
 ### DevLeague
+#### Full Stack JavaScript Developer
 <!-- #### An 800+ hour JavaScript Web Engineering bootcamp. This course teaches students with or without a programming background to become a full-stack web developer. Here I learned object-oriented programming, PostgresSQL databases, test-driven developments, React, Redux, and how to deploy web based apps. -->
 ##### Nov 2016 - May 2017
 
-### Institute of Technology Computing & Software System and Business Minor
-#### University of Washignton
+### University of Washignton
+#### Institute of Technology Computing & Software System and Business Minor
 ##### 2008 – 2010
-
-### Associates of Business
-#### Pierce College
-##### 2006 - 2008
 
 ## Languages
 - English
