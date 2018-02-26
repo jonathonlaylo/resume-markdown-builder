@@ -1,6 +1,6 @@
 # Jonathon Laylo
 
-1. 1482 12th Street Oakland, CA 94607
+1. 1482 12th St Oakland, CA 94607
 1. (253) 459-3507
 1. [jonathon.laylo@gmail.com](jonathon.laylo@gmail.com)
 1. [https://github.com/jonathonlaylo](https://github.com/jonathonlaylo)
@@ -8,11 +8,11 @@
 
 
 ## Objective
-I am a recent graduate in Web Developing with experience in front-end design, back-end design, and application development. I also have srong skills in customer service, time management, and multi-tasking. Strong analytical mindset and quick to problem solve. Proficient work ethic in both team and individual settings.
-
+I am a recent graduate in Web Developing bootcamp with experience in front-end design, back-end design, and application development. My objective is to obtain a career in the technology field that allows me to utilize my background as a full stack developer.
+<!-- A quick learner with strong skills in customer service, time management, and multi-tasking. Strong analytical mindset and quick to problem solve. Proficient work ethic in both team and individual settings.
+ -->
 
 ## Development Experience
-
 ### Buoy Call
 #### [https://buoycall.org/](https://buoycall.org/)
 ##### March 2017
@@ -30,9 +30,9 @@ I am a recent graduate in Web Developing with experience in front-end design, ba
 
 ## Professional Experience
 
-### Retail Sales Consultant
+### Brand Ambassador
 #### AT&T
-##### Honolulu, HI 2014 – Present
+##### San Francisco, CA August 2014 – Present
 - Develop and attain customer experience and sales objectives for AT&T. Sell products and services offered by AT&T. While receiving a 85% customer satisfaction average, I consistently resolve questions through email, phone calls, and text messages. Educated customers with up-to-date knowledge of latest products and trends. Consult with customers to understand their needs and offer optimal options to choose from.
 
 ### Store Manager
@@ -48,7 +48,7 @@ I am a recent graduate in Web Developing with experience in front-end design, ba
 
 ## Education
 ### DevLeague
-#### An 800+ hour JavaScript Web Engineering bootcamp. This course teaches students with or without a programming background to become a full-stack web developer. Here I learned object-oriented programming, PostgresSQL databases, test-driven developments, React, Redux, and how to deploy web based apps.
+<!-- #### An 800+ hour JavaScript Web Engineering bootcamp. This course teaches students with or without a programming background to become a full-stack web developer. Here I learned object-oriented programming, PostgresSQL databases, test-driven developments, React, Redux, and how to deploy web based apps. -->
 ##### Nov 2016 - May 2017
 
 ### Institute of Technology Computing & Software System and Business Minor
@@ -59,9 +59,9 @@ I am a recent graduate in Web Developing with experience in front-end design, ba
 #### Pierce College
 ##### 2006 - 2008
 
-## Languages
+<!-- ## Languages
 - English
-- Tagalog (Fluent)
+- Tagalog (Fluent) -->
 
 ## Technical Skills
 
