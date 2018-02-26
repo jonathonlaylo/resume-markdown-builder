@@ -12,22 +12,6 @@ I am a recent graduate in Web Developing bootcamp with experience in front-end d
 <!-- A quick learner with strong skills in customer service, time management, and multi-tasking. Strong analytical mindset and quick to problem solve. Proficient work ethic in both team and individual settings.
  -->
 
-## Development Experience
-### Buoy Call
-#### [https://buoycall.org/](https://buoycall.org/)
-##### March 2017
-<!-- - View historical data over time for buoys placed all over the world. Select a shark to adopt and give it a name with a $5 donation, and come back often to view where the shark is swimming.
-- Visualized and created cluster markers for the buoy and shark data on to Mapbox. Implemented components with React for user information.
-- Major outcome from this was project management, team based programming, and self teaching through docs. -->
-- A single page application that shows visualized data of buoys scraped from NOAA, the National Oceanic and Atmospheric Administration. Users see historical data over time for buoys placed all over the world and have the ability to log in and donate via Stripe to “adopt” sharks from live data. Responsibilities in this project were front-end design, React components, and the Mapbox component to visualize buoy data. Dependencies also include Express, React, Leaflet, Redux, Stripe, Rechart, Sequelize, Node.js, PostgreSQL, and Mailgun.
-
-<!-- ### Global Game Jam
-#### [https://github.com/danimi65/GlobalGameJam](https://github.com/danimi65/GlobalGameJam)
-##### March 2017
-- GlobalGameJam is a 24 hour hackathon to create a fun and interactive game for users. Built with jQuery and JavaScript, our team of three created a Pokemon game with a surfing Pikachu avoiding Gyarados baddies.
-- Enabled sprites to move with game mechanics and to interact with enemy baddies.
-- Quickly understood team based projects under time contraints. -->
-
 ## Professional Experience
 
 ### Brand Ambassador
@@ -59,13 +43,30 @@ I am a recent graduate in Web Developing bootcamp with experience in front-end d
 #### Pierce College
 ##### 2006 - 2008
 
-<!-- ## Languages
+## Languages
 - English
-- Tagalog (Fluent) -->
+- Tagalog (Fluent)
+
+## Personal Interests
+- Skateboarding
+- Snowboarding
+- Photography
+
+
+## Development Experience
+### Buoy Call
+#### [https://buoycall.org/](https://buoycall.org/)
+##### March 2017
+<!-- - View historical data over time for buoys placed all over the world. Select a shark to adopt and give it a name with a $5 donation, and come back often to view where the shark is swimming.
+- Visualized and created cluster markers for the buoy and shark data on to Mapbox. Implemented components with React for user information.
+- Major outcome from this was project management, team based programming, and self teaching through docs. -->
+- A single page application that shows visualized data of buoys scraped from NOAA, the National Oceanic and Atmospheric Administration. Users see historical data over time for buoys placed all over the world and have the ability to log in and donate via Stripe to “adopt” sharks from live data.
+- Responsibilities in this project were front-end design, React components, and the Mapbox component to visualize buoy data. Dependencies also include Express, React, Leaflet, Redux, Stripe, Rechart, Sequelize, Node.js, PostgreSQL, and Mailgun.
+
 
 ## Technical Skills
 
-### Languages
+### Programming Languages
 - JavaScript
 - HTML5
 - CSS3
