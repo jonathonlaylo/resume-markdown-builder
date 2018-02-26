@@ -1,10 +1,11 @@
 # Jonathon Laylo
 
-1. 2706 Peter Street Honolulu, HI 96816
+1. 1482 12th Street Oakland, CA 94607
 1. (253) 459-3507
+1. [jonathon.laylo@gmail.com](jonathon.laylo@gmail.com)
 1. [https://github.com/jonathonlaylo](https://github.com/jonathonlaylo)
 1. [https://www.linkedin.com/in/jonathonlaylo](https://www.linkedin.com/in/jonathonlaylo)
-1. [jonathon.laylo@gmail.com](jonathon.laylo@gmail.com)
+
 
 ## Objective
 I am a recent graduate in Web Developing with experience in front-end design, back-end design, and application development. A quick learner with strong skills in customer service, time management, and multi-tasking. Strong analytical mindset and quick to problem solve. Proficient work ethic in both team and individual settings.

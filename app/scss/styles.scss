@@ -284,3 +284,131 @@ li {
 }
 /* Large devices (large desktops, 1200px and up) */
 /* Ex-Large devices (large desktops, 1200px and up) */
+@media print {
+  body {
+    font-family: 'Roboto', sans-serif;
+    color: #545E6C;
+    background: #fff;
+    font-size: 11px;
+    padding: 0px;
+    margin: 0px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-weight: 500;
+  }
+  a {
+    color: #2e4049;
+    text-decoration: none;
+    -webkit-transition: all 0.4s ease-in-out;
+    -moz-transition: all 0.4s ease-in-out;
+    -ms-transition: all 0.4s ease-in-out;
+    -o-transition: all 0.4s ease-in-out;
+  }
+  li{
+    margin-bottom: 0px;
+  }
+  .wrapper {
+    background: #4B6A78;
+    max-width: 960px;
+    margin: 0 auto;
+    position: relative;
+    -webkit-box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  .sidebar-wrapper {
+    background: #4B6A78;
+    position: absolute;
+    right: 0;
+    width: 240px;
+    height: 100%;
+    min-height: 800px;
+    color: #fff;
+  }
+  .main-wrapper {
+    background: #fff;
+    padding: 8px;
+    padding-right: 300px;
+  }
+  .main-wrapper .section-title {
+    text-transform: uppercase;
+    font-size: 12px;
+    height: 30px;
+    font-weight: 500;
+    color: #2e4049;
+    position: relative;
+    margin-top: 0;
+    margin-bottom: 0px;
+  }
+  .main-wrapper .section {
+    margin-top: -5px;
+    margin-bottom: -5px;
+  }
+  .main-wrapper .upper-row {
+    display: inline-block;
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 0px;
+  }
+  .main-wrapper .experiences-section .item {
+    margin-bottom: 0px;
+  }
+  .main-wrapper .upper-row {
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 2px;
+  }
+  .main-wrapper .job-title {
+    color: #3F4650;
+    font-size: 12px;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-weight: 500;
+  }
+  .main-wrapper .time {
+    position: relative;
+    right: 0;
+    top: 0;
+    color: #97AAC3;
+  }
+  .main-wrapper .company {
+    margin-bottom: 3px;
+    color: #97AAC3;
+  }
+  .main-wrapper .project-title {
+    font-size: 12px;
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: 5px;
+  }
+  .main-wrapper .projects-section .intro {
+    margin-bottom: 0px;
+  }
+  .main-wrapper .projects-section .item {
+    margin-bottom: 3.5px;
+  }
+  .main-wrapper .skills-section {
+    margin-bottom: 0px;
+  }
+  .skillset .level-title {
+    font-size: 11px;
+    display: inline-block;
+    float: left;
+    width: 25%;
+    margin-bottom: 0;
+  }
+  .skillset .level-bar {
+    display: inline-block;
+    width: 70%;
+    float: left;
+    position: relative;
+    top: 1px;
+  }
+}
